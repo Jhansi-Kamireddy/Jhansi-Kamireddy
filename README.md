@@ -2,7 +2,7 @@
 - 👀 I'm Seeking a Job opportunity in software field as technical support and junior developer.
 - 🌱 I’m a certified Java Full Stack Web Developer
 - 📫 reach me: kjhansi.1803@gmail.com
-- 📫 LimkedIn: https://www.linkedin.com/in/jhansi-kamireddy-77a6ab222/
+- 📫 LinkedIn: https://www.linkedin.com/in/jhansi-kamireddy-77a6ab222/
 - 😄 Pronouns: She/Her
 
 <!---
